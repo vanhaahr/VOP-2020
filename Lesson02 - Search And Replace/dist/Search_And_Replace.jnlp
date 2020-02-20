@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Search_And_Replace.jnlp">
+  <information>
+    <title>Search_And_Replace</title>
+    <vendor>Kenneth Haahr</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="search.and.replace.SearchAndReplace"  name="Search_And_Replace" />
+  <update check="always"/>
+</jnlp>

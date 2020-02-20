@@ -1,0 +1,15 @@
+﻿/**
+ * HelloMars Example for use during the VOP exam F15
+ * @author erso   Created on 15-05-2015, 10:19:06
+ */
+public class HelloMars {
+
+    public HelloMars() {
+        System.out.println("HelloMars");
+    }
+
+
+    public static void main(String[] args) {
+        HelloMars helloMars = new HelloMars();
+    }
+}
